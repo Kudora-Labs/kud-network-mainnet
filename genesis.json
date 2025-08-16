@@ -29,12 +29,7 @@
         "default_send_enabled": true
       },
       "balances": [],
-      "supply": [
-        {
-          "denom": "kud",
-          "amount": "1800000000000000000000000000"
-        }
-      ],
+      "supply": [],
       "denom_metadata": [
         {
           "description": "Kudoras Native Token",
@@ -45,14 +40,14 @@
               "aliases": []
             },
             {
-              "denom": "Kudos",
+              "denom": "Kudo",
               "exponent": 18,
               "aliases": []
             }
           ],
           "base": "kud",
-          "display": "Kudos",
-          "name": "Kudos",
+          "display": "Kudo",
+          "name": "Kudo",
           "symbol": "KUD",
           "uri": "",
           "uri_hash": ""
