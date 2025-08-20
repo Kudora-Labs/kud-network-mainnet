@@ -34,7 +34,12 @@
           "coins": [{ "denom": "kud", "amount": "52000000000000000000000000" }]
         }
       ],
-      "supply": [],
+      "supply": [
+        {
+          "denom": "kud",
+          "amount": "65000000000000000000000000"
+        }
+      ],
       "denom_metadata": [
         {
           "description": "Kudoras Native Token",
