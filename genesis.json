@@ -28,7 +28,12 @@
         "send_enabled": [],
         "default_send_enabled": true
       },
-      "balances": [],
+      "balances": [
+        {
+          "address": "kudo1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8paw86f",
+          "coins": [{ "denom": "kud", "amount": "52000000000000000000000000" }]
+        }
+      ],
       "supply": [],
       "denom_metadata": [
         {
@@ -78,7 +83,12 @@
         "withdraw_addr_enabled": true
       },
       "fee_pool": {
-        "community_pool": []
+        "community_pool": [
+          {
+            "denom": "kud",
+            "amount": "52000000000000000000000000.000000000000000000"
+          }
+        ]
       },
       "delegator_withdraw_infos": [],
       "previous_proposer": "",
@@ -161,7 +171,7 @@
         "elasticity_multiplier": 2,
         "enable_height": "0",
         "base_fee": "1000000000.000000000000000000",
-        "min_gas_price": "0.000000000000000000",
+        "min_gas_price": "1000000000.000000000000000000",
         "min_gas_multiplier": "0.500000000000000000"
       },
       "block_gas": "0"
@@ -205,7 +215,7 @@
         "burn_vote_veto": true,
         "min_deposit_ratio": "0.010000000000000000"
       },
-      "constitution": ""
+      "constitution": "Web3 invitation to the dreamer, the believer, the one who still cares, I send this message with hope, even as the road we walk feels tough. Today, the world of crypto and Web3 is losing its values. Influenced by the old systems, it is slipping from the vision of fairness, freedom, and opportunity that inspired it. The promise of Web3, a system built for the people, is being overshadowed by the same selfish habits that we sought to leave behind. What was meant to empower is now too often exploited. What was meant to be open and fair has been clouded by greed, short-sightedness, and the hunger for control. But this is a choice. This is our choice. We can let this path continue, or we can choose something better. For those who want more, for those who still believe in the mission of Web3, there is hope. Together, we can reclaim this vision. Together, we can build the foundation of a true Web3 ecosystem, a place where fairness and collaboration guide us, where value is created by what we give, not by what we take. Imagine a Web3 where trust is not just a word, but a practice. A place where projects serve their communities, not just profits. An ecosystem that rewards honesty, contribution, and care. A world where the desire to give, to help, to build, is valued above all else. This is the Web3 we can create. A place where we lift each other up, where we care about the people behind the projects, and where no one is left behind. This is not a dream for the few, it is a mission for all of us who believe in what Web3 was meant to be. The future of Web3 is still in our hands. Let us come together, not to follow the broken patterns of the past, but to build something new. Something true. Something that honors the vision that started it all. This is our moment, and it is our choice. For those who care, for those who believe, for those who refuse to give up: let us rise. Let us build. Let us make Web3 the world it was always meant to be."
     },
     "group": {
       "group_seq": "0",

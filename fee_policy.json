@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "chain_id": "kudora_12000-1",
+  "base_denom": "kud",
+  "display_denom": "Kudo",
+  "denom_units": [
+    { "denom": "kud", "exponent": 0 },
+    { "denom": "Kudo", "exponent": 18 }
+  ],
+  "recommended_min_gas_price": {
+    "low": "1000000000kud",
+    "average": "2000000000kud",
+    "high": "3000000000kud"
+  }
+}
